@@ -32785,11 +32785,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      spr_tileset_sunnysideworld_1482: -1520364920
-      spr_tileset_sunnysideworld_1290: -429106061
       spr_tileset_sunnysideworld_1383: -1312857916
-      spr_tileset_sunnysideworld_1513: 956532649
+      spr_tileset_sunnysideworld_919: -1408432539
+      spr_tileset_sunnysideworld_636: -442147630
       spr_tileset_sunnysideworld_207: -533589359
+      spr_tileset_sunnysideworld_267: 1250736565
       spr_tileset_sunnysideworld_938: -1711317852
       spr_tileset_sunnysideworld_1001: -1612665785
       spr_tileset_sunnysideworld_333: 1465839047
@@ -32799,9 +32799,9 @@ TextureImporter:
       spr_tileset_sunnysideworld_1355: -1526421925
       spr_tileset_sunnysideworld_366: 275716000
       spr_tileset_sunnysideworld_1082: 1761184188
+      spr_tileset_sunnysideworld_486: 839713563
       spr_tileset_sunnysideworld_448: 81534024
       spr_tileset_sunnysideworld_69: 1305851860
-      spr_tileset_sunnysideworld_486: 839713563
       spr_tileset_sunnysideworld_3: -912804381
       spr_tileset_sunnysideworld_430: 678433315
       spr_tileset_sunnysideworld_1078: 485838850
@@ -32823,14 +32823,15 @@ TextureImporter:
       spr_tileset_sunnysideworld_1018: 2042749430
       spr_tileset_sunnysideworld_377: -531787039
       spr_tileset_sunnysideworld_360: 1692630339
-      spr_tileset_sunnysideworld_1073: 1543417980
+      spr_tileset_sunnysideworld_1145: -941219010
       spr_tileset_sunnysideworld_1248: -825824183
-      spr_tileset_sunnysideworld_1495: -2122236307
+      spr_tileset_sunnysideworld_1073: 1543417980
       spr_tileset_sunnysideworld_592: -1846469018
       spr_tileset_sunnysideworld_1259: -647363574
+      spr_tileset_sunnysideworld_1495: -2122236307
       spr_tileset_sunnysideworld_340: -1866895001
-      spr_tileset_sunnysideworld_354: -1154691031
       spr_tileset_sunnysideworld_1266: 1272378843
+      spr_tileset_sunnysideworld_354: -1154691031
       spr_tileset_sunnysideworld_1049: 749176084
       spr_tileset_sunnysideworld_1456: 860792949
       spr_tileset_sunnysideworld_570: -1969948513
@@ -32839,7 +32840,6 @@ TextureImporter:
       spr_tileset_sunnysideworld_1509: 625518329
       spr_tileset_sunnysideworld_1173: 2037231940
       spr_tileset_sunnysideworld_896: -208053102
-      spr_tileset_sunnysideworld_1145: -941219010
       spr_tileset_sunnysideworld_458: -1796249187
       spr_tileset_sunnysideworld_7: -839432600
       spr_tileset_sunnysideworld_654: 1049394062
@@ -32948,8 +32948,8 @@ TextureImporter:
       spr_tileset_sunnysideworld_531: -1003862622
       spr_tileset_sunnysideworld_498: -2003596365
       spr_tileset_sunnysideworld_962: 1177901509
-      spr_tileset_sunnysideworld_575: -840926689
       spr_tileset_sunnysideworld_1517: 2121078131
+      spr_tileset_sunnysideworld_575: -840926689
       spr_tileset_sunnysideworld_1289: -126904936
       spr_tileset_sunnysideworld_1370: -1960912617
       spr_tileset_sunnysideworld_510: -2073125366
@@ -32980,9 +32980,9 @@ TextureImporter:
       spr_tileset_sunnysideworld_240: -109457502
       spr_tileset_sunnysideworld_617: 1741927247
       spr_tileset_sunnysideworld_1407: -1813410688
-      spr_tileset_sunnysideworld_731: -1091395546
-      spr_tileset_sunnysideworld_1040: -689224172
       spr_tileset_sunnysideworld_1223: 1501358911
+      spr_tileset_sunnysideworld_1040: -689224172
+      spr_tileset_sunnysideworld_731: -1091395546
       spr_tileset_sunnysideworld_344: 1583237982
       spr_tileset_sunnysideworld_289: -248134904
       spr_tileset_sunnysideworld_431: 1480822141
@@ -33096,8 +33096,8 @@ TextureImporter:
       spr_tileset_sunnysideworld_1406: -1267618584
       spr_tileset_sunnysideworld_1006: -1124560717
       spr_tileset_sunnysideworld_2: 1156516880
-      spr_tileset_sunnysideworld_335: 1655305389
       spr_tileset_sunnysideworld_647: 2097010501
+      spr_tileset_sunnysideworld_335: 1655305389
       spr_tileset_sunnysideworld_797: -494316003
       spr_tileset_sunnysideworld_203: 584714383
       spr_tileset_sunnysideworld_309: 2121196573
@@ -33110,8 +33110,8 @@ TextureImporter:
       spr_tileset_sunnysideworld_351: -1372742095
       spr_tileset_sunnysideworld_126: -814394410
       spr_tileset_sunnysideworld_78: -1766095192
-      spr_tileset_sunnysideworld_169: 1200983816
       spr_tileset_sunnysideworld_293: -2094846448
+      spr_tileset_sunnysideworld_169: 1200983816
       spr_tileset_sunnysideworld_88: 393075197
       spr_tileset_sunnysideworld_373: 1557525376
       spr_tileset_sunnysideworld_861: 1357428073
@@ -33120,10 +33120,10 @@ TextureImporter:
       spr_tileset_sunnysideworld_835: 2022392387
       spr_tileset_sunnysideworld_1288: 355231115
       spr_tileset_sunnysideworld_157: -911630246
-      spr_tileset_sunnysideworld_310: 1557183063
       spr_tileset_sunnysideworld_1294: -1756919476
-      spr_tileset_sunnysideworld_749: -1131764023
       spr_tileset_sunnysideworld_1300: -1961861694
+      spr_tileset_sunnysideworld_310: 1557183063
+      spr_tileset_sunnysideworld_749: -1131764023
       spr_tileset_sunnysideworld_352: 1555698166
       spr_tileset_sunnysideworld_1277: 512917890
       spr_tileset_sunnysideworld_771: 39094979
@@ -33176,8 +33176,8 @@ TextureImporter:
       spr_tileset_sunnysideworld_27: 671375298
       spr_tileset_sunnysideworld_1512: 381960490
       spr_tileset_sunnysideworld_87: -1208066500
-      spr_tileset_sunnysideworld_291: 901822319
       spr_tileset_sunnysideworld_1551: 140800445
+      spr_tileset_sunnysideworld_291: 901822319
       spr_tileset_sunnysideworld_1506: -345865492
       spr_tileset_sunnysideworld_1436: 2020752950
       spr_tileset_sunnysideworld_1522: 1057170319
@@ -33344,14 +33344,14 @@ TextureImporter:
       spr_tileset_sunnysideworld_910: -428557932
       spr_tileset_sunnysideworld_235: 176351065
       spr_tileset_sunnysideworld_246: -791825978
-      spr_tileset_sunnysideworld_1366: 2085170897
       spr_tileset_sunnysideworld_1520: 987632677
+      spr_tileset_sunnysideworld_1366: 2085170897
       spr_tileset_sunnysideworld_327: 1107038527
       spr_tileset_sunnysideworld_877: -2087155449
       spr_tileset_sunnysideworld_916: 650135024
-      spr_tileset_sunnysideworld_1437: -1032648082
-      spr_tileset_sunnysideworld_1302: 1875766179
       spr_tileset_sunnysideworld_1528: 2075756560
+      spr_tileset_sunnysideworld_1302: 1875766179
+      spr_tileset_sunnysideworld_1437: -1032648082
       spr_tileset_sunnysideworld_1531: 447194415
       spr_tileset_sunnysideworld_1470: -1361086935
       spr_tileset_sunnysideworld_26: 1465035025
@@ -33415,9 +33415,9 @@ TextureImporter:
       spr_tileset_sunnysideworld_76: 842298434
       spr_tileset_sunnysideworld_114: -395621859
       spr_tileset_sunnysideworld_520: -1178240355
-      spr_tileset_sunnysideworld_685: -1893243467
-      spr_tileset_sunnysideworld_493: -470422764
       spr_tileset_sunnysideworld_708: 673855849
+      spr_tileset_sunnysideworld_493: -470422764
+      spr_tileset_sunnysideworld_685: -1893243467
       spr_tileset_sunnysideworld_238: 1672471666
       spr_tileset_sunnysideworld_443: -1176394905
       spr_tileset_sunnysideworld_1358: -1787354988
@@ -33434,11 +33434,11 @@ TextureImporter:
       spr_tileset_sunnysideworld_457: 1223862828
       spr_tileset_sunnysideworld_739: -1033612451
       spr_tileset_sunnysideworld_422: -214910293
+      spr_tileset_sunnysideworld_975: -2125905822
       spr_tileset_sunnysideworld_869: -1521133315
       spr_tileset_sunnysideworld_1210: -1313233227
-      spr_tileset_sunnysideworld_975: -2125905822
-      spr_tileset_sunnysideworld_908: -1880649554
       spr_tileset_sunnysideworld_35: -611941261
+      spr_tileset_sunnysideworld_908: -1880649554
       spr_tileset_sunnysideworld_9: 2021482558
       spr_tileset_sunnysideworld_619: -405930570
       spr_tileset_sunnysideworld_868: 919453707
@@ -33710,9 +33710,9 @@ TextureImporter:
       spr_tileset_sunnysideworld_225: -1169193304
       spr_tileset_sunnysideworld_179: 339736287
       spr_tileset_sunnysideworld_513: -2026853352
-      spr_tileset_sunnysideworld_604: -2017742418
       spr_tileset_sunnysideworld_226: -855053286
       spr_tileset_sunnysideworld_859: 1376992742
+      spr_tileset_sunnysideworld_604: -2017742418
       spr_tileset_sunnysideworld_1086: -1679582038
       spr_tileset_sunnysideworld_257: -977971103
       spr_tileset_sunnysideworld_956: -1250996695
@@ -33749,22 +33749,22 @@ TextureImporter:
       spr_tileset_sunnysideworld_1331: -401413992
       spr_tileset_sunnysideworld_509: 149123261
       spr_tileset_sunnysideworld_130: 1215980189
+      spr_tileset_sunnysideworld_772: 1668097379
       spr_tileset_sunnysideworld_621: -1215074849
       spr_tileset_sunnysideworld_610: 987403067
       spr_tileset_sunnysideworld_864: 27772045
-      spr_tileset_sunnysideworld_772: 1668097379
+      spr_tileset_sunnysideworld_990: -1648745839
       spr_tileset_sunnysideworld_161: 567981929
       spr_tileset_sunnysideworld_684: -2108415351
       spr_tileset_sunnysideworld_765: -110337772
-      spr_tileset_sunnysideworld_990: -1648745839
       spr_tileset_sunnysideworld_217: -1604621565
       spr_tileset_sunnysideworld_320: -1700177632
       spr_tileset_sunnysideworld_1202: 2060455029
       spr_tileset_sunnysideworld_98: -663739192
       spr_tileset_sunnysideworld_1014: -1795299716
-      spr_tileset_sunnysideworld_389: 642668977
-      spr_tileset_sunnysideworld_872: -564860185
       spr_tileset_sunnysideworld_1201: 2138572202
+      spr_tileset_sunnysideworld_872: -564860185
+      spr_tileset_sunnysideworld_389: 642668977
       spr_tileset_sunnysideworld_1553: -286416273
       spr_tileset_sunnysideworld_1220: 1348903668
       spr_tileset_sunnysideworld_1268: -1818004092
@@ -33773,9 +33773,9 @@ TextureImporter:
       spr_tileset_sunnysideworld_925: 561634031
       spr_tileset_sunnysideworld_365: -561825926
       spr_tileset_sunnysideworld_24: -1444075420
+      spr_tileset_sunnysideworld_1065: -731128768
       spr_tileset_sunnysideworld_693: 668907119
       spr_tileset_sunnysideworld_768: -1313358255
-      spr_tileset_sunnysideworld_1065: -731128768
       spr_tileset_sunnysideworld_1400: 1766695567
       spr_tileset_sunnysideworld_987: -1989084885
       spr_tileset_sunnysideworld_545: -165126439
@@ -33797,11 +33797,11 @@ TextureImporter:
       spr_tileset_sunnysideworld_597: 1979007943
       spr_tileset_sunnysideworld_36: -1053392415
       spr_tileset_sunnysideworld_474: 311456302
-      spr_tileset_sunnysideworld_936: 977854521
       spr_tileset_sunnysideworld_1448: 1402352577
       spr_tileset_sunnysideworld_563: 924390541
       spr_tileset_sunnysideworld_760: 1702123127
       spr_tileset_sunnysideworld_1299: 1387182551
+      spr_tileset_sunnysideworld_936: 977854521
       spr_tileset_sunnysideworld_584: 1075343199
       spr_tileset_sunnysideworld_1097: 941617048
       spr_tileset_sunnysideworld_1401: 617770305
@@ -33869,9 +33869,9 @@ TextureImporter:
       spr_tileset_sunnysideworld_886: -428783123
       spr_tileset_sunnysideworld_72: 1066304661
       spr_tileset_sunnysideworld_62: 1097316334
-      spr_tileset_sunnysideworld_1112: -1467405976
       spr_tileset_sunnysideworld_1390: -1738951780
       spr_tileset_sunnysideworld_1195: -848249934
+      spr_tileset_sunnysideworld_1112: -1467405976
       spr_tileset_sunnysideworld_1542: 1192515822
       spr_tileset_sunnysideworld_1207: 1707747435
       spr_tileset_sunnysideworld_266: -1663217564
@@ -33907,8 +33907,8 @@ TextureImporter:
       spr_tileset_sunnysideworld_66: 1821997852
       spr_tileset_sunnysideworld_1067: 570738466
       spr_tileset_sunnysideworld_475: 955605854
-      spr_tileset_sunnysideworld_1038: 563508406
       spr_tileset_sunnysideworld_1119: -2074188834
+      spr_tileset_sunnysideworld_1038: 563508406
       spr_tileset_sunnysideworld_415: 1190215220
       spr_tileset_sunnysideworld_526: 1158156850
       spr_tileset_sunnysideworld_165: -1831079252
@@ -33965,8 +33965,8 @@ TextureImporter:
       spr_tileset_sunnysideworld_607: 237811986
       spr_tileset_sunnysideworld_548: 779921465
       spr_tileset_sunnysideworld_982: 936729297
-      spr_tileset_sunnysideworld_664: 1500161766
       spr_tileset_sunnysideworld_707: 1344737064
+      spr_tileset_sunnysideworld_664: 1500161766
       spr_tileset_sunnysideworld_960: 197794828
       spr_tileset_sunnysideworld_230: 988365312
       spr_tileset_sunnysideworld_1342: 1693303471
@@ -34075,6 +34075,7 @@ TextureImporter:
       spr_tileset_sunnysideworld_395: 1123161583
       spr_tileset_sunnysideworld_653: 119506735
       spr_tileset_sunnysideworld_767: 108277347
+      spr_tileset_sunnysideworld_1417: -2106101160
       spr_tileset_sunnysideworld_1416: -1212716811
       spr_tileset_sunnysideworld_1074: 1054105903
       spr_tileset_sunnysideworld_1284: 1868421843
@@ -34083,14 +34084,13 @@ TextureImporter:
       spr_tileset_sunnysideworld_428: 484657073
       spr_tileset_sunnysideworld_496: -631459391
       spr_tileset_sunnysideworld_790: 1283405436
-      spr_tileset_sunnysideworld_1417: -2106101160
       spr_tileset_sunnysideworld_942: 1252295751
       spr_tileset_sunnysideworld_997: -2044821126
       spr_tileset_sunnysideworld_283: -1610606811
       spr_tileset_sunnysideworld_53: -1672284982
-      spr_tileset_sunnysideworld_477: 239925593
-      spr_tileset_sunnysideworld_196: -1520361612
       spr_tileset_sunnysideworld_1031: 1762844309
+      spr_tileset_sunnysideworld_196: -1520361612
+      spr_tileset_sunnysideworld_477: 239925593
       spr_tileset_sunnysideworld_29: -640153855
       spr_tileset_sunnysideworld_920: -409477492
       spr_tileset_sunnysideworld_892: 81459167
@@ -34117,14 +34117,14 @@ TextureImporter:
       spr_tileset_sunnysideworld_734: -1250848124
       spr_tileset_sunnysideworld_1490: -1151893337
       spr_tileset_sunnysideworld_1100: -1057634096
+      spr_tileset_sunnysideworld_1114: 376451030
       spr_tileset_sunnysideworld_589: 587462836
       spr_tileset_sunnysideworld_1231: 1164956424
-      spr_tileset_sunnysideworld_1114: 376451030
-      spr_tileset_sunnysideworld_1461: -350182370
       spr_tileset_sunnysideworld_312: -1009457912
       spr_tileset_sunnysideworld_259: -1878926077
       spr_tileset_sunnysideworld_518: 440750774
       spr_tileset_sunnysideworld_1410: 1540387176
+      spr_tileset_sunnysideworld_1461: -350182370
       spr_tileset_sunnysideworld_635: -950784639
       spr_tileset_sunnysideworld_905: 744156864
       spr_tileset_sunnysideworld_92: 393385758
@@ -34145,14 +34145,14 @@ TextureImporter:
       spr_tileset_sunnysideworld_1538: -344338822
       spr_tileset_sunnysideworld_972: 1874047649
       spr_tileset_sunnysideworld_190: 1074805016
-      spr_tileset_sunnysideworld_921: -1449206929
-      spr_tileset_sunnysideworld_139: 1495569059
       spr_tileset_sunnysideworld_680: 766179692
+      spr_tileset_sunnysideworld_139: 1495569059
       spr_tileset_sunnysideworld_794: -484549083
+      spr_tileset_sunnysideworld_921: -1449206929
+      spr_tileset_sunnysideworld_959: 1513916979
       spr_tileset_sunnysideworld_425: -152152731
       spr_tileset_sunnysideworld_136: 1426100685
       spr_tileset_sunnysideworld_1392: 87243061
-      spr_tileset_sunnysideworld_959: 1513916979
       spr_tileset_sunnysideworld_1483: -118936736
       spr_tileset_sunnysideworld_1203: -1077219966
       spr_tileset_sunnysideworld_1454: -1881985327
@@ -34333,11 +34333,11 @@ TextureImporter:
       spr_tileset_sunnysideworld_494: 830503017
       spr_tileset_sunnysideworld_1219: -95280858
       spr_tileset_sunnysideworld_747: -723440105
-      spr_tileset_sunnysideworld_919: -1408432539
       spr_tileset_sunnysideworld_228: 1187022448
-      spr_tileset_sunnysideworld_267: 1250736565
       spr_tileset_sunnysideworld_1270: -2021418753
-      spr_tileset_sunnysideworld_636: -442147630
+      spr_tileset_sunnysideworld_1290: -429106061
+      spr_tileset_sunnysideworld_1482: -1520364920
+      spr_tileset_sunnysideworld_1513: 956532649
       spr_tileset_sunnysideworld_16: 296325864
   spritePackingTag: 
   pSDRemoveMatte: 0
